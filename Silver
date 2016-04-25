@@ -1,6 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title> About Ana </title>
+<link href="style.css" rel="stylesheet"> 
+</head>
+<body>
+
 <nav>
- <a href="#"><div>Home</div></a>
- <a href="#"><div>About</div></a>
- <a href="#"><div>Contact</div></a>
- <a href="#"><div>Sitemap</div></a>
+<a href="index.html"> Home </a> <a href="about.html" class="menu-selected"> About </a> <a href="portfolio.html">Portfolio</a>
 </nav>
+
+<h1>About Rima</h1>
+<p>I am an Advertiser based in Miami.</p>
+<div> I love the ocean & rollerskate. </div>
+
+<a href="http://www.instagram.com/pixiclick.create/">
+<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-32.png">
+</a>
+<a href="http://www.linkedin.com/in/ana-paz-316b71a6">
+<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-32.png">
+</a>
+<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/78-instagram-32.png">
+
+</body>
+</html>
