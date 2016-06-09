@@ -1,0 +1,67 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylemidterm.css">
+<body>
+<center>
+<div class="div">
+<p1>EXTRA CREDIT</p1>
+<br>
+<p2>Code this website!</p2>
+<br>
+<br>
+<button class="button1">START NOW!</button>
+<br>
+<p3>It's easy if you know your <font color=#00A4CA>HTML</font> and <font color=#00A4CA>CSS</font></p3>
+<br>
+<p3><font color=#00A4CA>Due Week 6</font></p3>
+</div>
+</center>
+</body>
+</head>
+</html>
+body{
+font-family: 'Arial';
+background:url(Background.jpg);
+background-size: cover;
+color:#FFFFFF;
+}
+
+
+
+div
+{
+    background: rgba(0, 0, 0, 0.4);
+    tex-align:center;
+    position: fixed;
+    top: 40%;
+    bottom: 28%;
+    left: 0%;
+    right: 0%;
+}
+
+
+p1{
+font:300% Arial;
+display: block;
+}
+
+p2{
+font:120% Arial;
+display: block;
+}
+
+button.button1 {
+    background-color: #00A4CA;
+    border: none;
+    color: white;
+    padding: 8px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 12px;
+}
+
+p3{
+font:100% Arial;
+display: block;
+}
